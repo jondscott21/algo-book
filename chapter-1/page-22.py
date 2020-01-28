@@ -114,4 +114,4 @@ def scale_the_array(arr, num):
     for i in range(len(arr)):
         arr[i] *= num
     return arr
-print(scale_the_array(arr1, 3))
+# print(scale_the_array(arr1, 3))
